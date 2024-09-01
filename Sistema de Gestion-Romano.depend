@@ -1,0 +1,492 @@
+# depslib dependency file v1.0
+1718196418 source:c:\users\roman\onedrive\sistema de gestion\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"rlutil.h"
+
+1718196419 c:\users\roman\onedrive\sistema de gestion\funciones.h
+
+1718196418 c:\users\roman\onedrive\sistema de gestion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718196418 source:c:\users\roman\onedrive\sistema de gestion\login.cpp
+	<iostream>
+	"Login.h"
+	"Funciones.h"
+
+1718196418 c:\users\roman\onedrive\sistema de gestion\login.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+
+1718213257 source:c:\users\roman\onedrive\sistema de gestion\menu.cpp
+	<iostream>
+	"Cliente.h"
+	"Menu.h"
+	"rlutil.h"
+	"Funciones.h"
+	"ArchivoCliente.h"
+	"ArchivoInventario.h"
+
+1718208182 c:\users\roman\onedrive\sistema de gestion\menu.h
+	"Cliente.h"
+
+1718196419 source:c:\users\roman\onedrive\sistema de gestion\main.cpp
+	<iostream>
+	"Login.h"
+	"Menu.h"
+	"rlutil.h"
+	"Funciones.h"
+
+1718221203 source:c:\users\roman\onedrive\sistema de gestion\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1718196419 c:\users\roman\onedrive\sistema de gestion\fecha.h
+
+1718222148 source:c:\users\roman\onedrive\sistema de gestion\persona.cpp
+	"Persona.h"
+	"Funciones.h"
+	"rlutil.h"
+	<iostream>
+	<cstring>
+
+1718196418 c:\users\roman\onedrive\sistema de gestion\persona.h
+	"Fecha.h"
+
+1718222148 source:c:\users\roman\onedrive\sistema de gestion\contacto.cpp
+	<iostream>
+	<cstring>
+	"Contacto.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1718196419 c:\users\roman\onedrive\sistema de gestion\contacto.h
+	"Domicilio.h"
+
+1718196418 c:\users\roman\onedrive\sistema de gestion\domicilio.h
+	"Funciones.h"
+
+1718222148 source:c:\users\roman\onedrive\sistema de gestion\domicilio.cpp
+	<iostream>
+	<cstring>
+	"Domicilio.h"
+	"rlutil.h"
+
+1718196419 source:c:\users\roman\onedrive\sistema de gestion\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1718196419 c:\users\roman\onedrive\sistema de gestion\articulo.h
+
+1718196419 source:c:\users\roman\onedrive\sistema de gestion\inventario.cpp
+	"Inventario.h"
+	"Funciones.h"
+	"rlutil.h"
+	<iostream>
+	<cstring>
+
+1718196419 c:\users\roman\onedrive\sistema de gestion\inventario.h
+	"Articulo.h"
+
+1718196419 source:c:\users\roman\onedrive\sistema de gestion\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1718196419 c:\users\roman\onedrive\sistema de gestion\cliente.h
+	"Persona.h"
+	"Contacto.h"
+
+1718196418 source:c:\users\roman\onedrive\sistema de gestion\reparacion.cpp
+	<iostream>
+	<cstring>
+	"Reparacion.h"
+	"Funciones.h"
+
+1718196418 c:\users\roman\onedrive\sistema de gestion\reparacion.h
+	"Articulo.h"
+	"Cliente.h"
+	"Fecha.h"
+
+1718196418 source:c:\users\roman\onedrive\sistema de gestion\tecnico.cpp
+	<iostream>
+	"Tecnico.h"
+
+1718196418 c:\users\roman\onedrive\sistema de gestion\tecnico.h
+	"Persona.h"
+
+1718196419 source:c:\users\roman\onedrive\sistema de gestion\archivoreparacion.cpp
+	<iostream>
+	"ArchivoReparacion.h"
+
+1718196419 c:\users\roman\onedrive\sistema de gestion\archivoreparacion.h
+	<cstring>
+	"Reparacion.h"
+
+1718196419 source:c:\users\roman\onedrive\sistema de gestion\archivotecnico.cpp
+	<iostream>
+	"ArchivoTecnico.h"
+
+1718196419 c:\users\roman\onedrive\sistema de gestion\archivotecnico.h
+	<cstring>
+	"Tecnico.h"
+
+1718221983 source:c:\users\roman\onedrive\sistema de gestion\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+	"rlutil.h"
+	"Menu.h"
+	"Cliente.h"
+
+1718207661 c:\users\roman\onedrive\sistema de gestion\archivocliente.h
+	<cstring>
+	"Cliente.h"
+
+1718196419 source:c:\users\roman\onedrive\sistema de gestion\archivoinventario.cpp
+	<iostream>
+	"ArchivoInventario.h"
+	"rlutil.h"
+
+1718196419 c:\users\roman\onedrive\sistema de gestion\archivoinventario.h
+	<cstring>
+	"Inventario.h"
+
+1716420057 source:e:\tup-utn\proyecto lab2\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1716415842 e:\tup-utn\proyecto lab2\archivocliente.h
+	<cstring>
+	"Cliente.h"
+
+1716415901 e:\tup-utn\proyecto lab2\cliente.h
+	"Persona.h"
+	"Contacto.h"
+
+1716420934 e:\tup-utn\proyecto lab2\persona.h
+	"Fecha.h"
+
+1716420934 e:\tup-utn\proyecto lab2\fecha.h
+
+1716415907 e:\tup-utn\proyecto lab2\contacto.h
+	"Domicilio.h"
+
+1716415912 e:\tup-utn\proyecto lab2\domicilio.h
+	"Funciones.h"
+
+1716415923 e:\tup-utn\proyecto lab2\funciones.h
+
+1716415870 source:e:\tup-utn\proyecto lab2\archivoinventario.cpp
+	<iostream>
+	"ArchivoInventario.h"
+
+1716415873 e:\tup-utn\proyecto lab2\archivoinventario.h
+	<cstring>
+	"Inventario.h"
+
+1716415928 e:\tup-utn\proyecto lab2\inventario.h
+	"Articulo.h"
+
+1716415898 e:\tup-utn\proyecto lab2\articulo.h
+
+1716415876 source:e:\tup-utn\proyecto lab2\archivoreparacion.cpp
+	<iostream>
+	"ArchivoReparacion.h"
+
+1716415890 e:\tup-utn\proyecto lab2\archivoreparacion.h
+	<cstring>
+	"Reparacion.h"
+
+1716415955 e:\tup-utn\proyecto lab2\reparacion.h
+	"Articulo.h"
+	"Cliente.h"
+	"Fecha.h"
+
+1716415892 source:e:\tup-utn\proyecto lab2\archivotecnico.cpp
+	<iostream>
+	"ArchivoTecnico.h"
+
+1716415894 e:\tup-utn\proyecto lab2\archivotecnico.h
+	<cstring>
+	"Tecnico.h"
+
+1716415968 e:\tup-utn\proyecto lab2\tecnico.h
+	"Persona.h"
+
+1716415896 source:e:\tup-utn\proyecto lab2\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Funciones.h"
+
+1716415900 source:e:\tup-utn\proyecto lab2\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1716415905 source:e:\tup-utn\proyecto lab2\contacto.cpp
+	<iostream>
+	<cstring>
+	"Contacto.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1716415958 e:\tup-utn\proyecto lab2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1716415910 source:e:\tup-utn\proyecto lab2\domicilio.cpp
+	<iostream>
+	<cstring>
+	"Domicilio.h"
+	"rlutil.h"
+
+1716421322 source:e:\tup-utn\proyecto lab2\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1716415919 source:e:\tup-utn\proyecto lab2\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+
+1716415925 source:e:\tup-utn\proyecto lab2\inventario.cpp
+	"Inventario.h"
+	"Funciones.h"
+	<iostream>
+	<cstring>
+
+1716415930 source:e:\tup-utn\proyecto lab2\login.cpp
+	<iostream>
+	"Login.h"
+	"Funciones.h"
+
+1716415934 e:\tup-utn\proyecto lab2\login.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+
+1716415935 source:e:\tup-utn\proyecto lab2\main.cpp
+	<iostream>
+	"Login.h"
+	"Menu.h"
+	"rlutil.h"
+	"Funciones.h"
+
+1716415943 e:\tup-utn\proyecto lab2\menu.h
+
+1716417227 source:e:\tup-utn\proyecto lab2\menu.cpp
+	<iostream>
+	"Menu.h"
+	"rlutil.h"
+	"Funciones.h"
+	"ArchivoCliente.h"
+
+1716421356 source:e:\tup-utn\proyecto lab2\persona.cpp
+	"Persona.h"
+	"Funciones.h"
+	"rlutil.h"
+	<iostream>
+	<cstring>
+
+1716415952 source:e:\tup-utn\proyecto lab2\reparacion.cpp
+	<iostream>
+	<cstring>
+	"Reparacion.h"
+	"Funciones.h"
+
+1716415966 source:e:\tup-utn\proyecto lab2\tecnico.cpp
+	<iostream>
+	"Tecnico.h"
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1716423420 c:\users\roman\onedrive\desktop\proyecto lab2\archivocliente.h
+	<cstring>
+	"Cliente.h"
+
+1716423420 c:\users\roman\onedrive\desktop\proyecto lab2\cliente.h
+	"Persona.h"
+	"Contacto.h"
+
+1716423421 c:\users\roman\onedrive\desktop\proyecto lab2\persona.h
+	"Fecha.h"
+
+1716423420 c:\users\roman\onedrive\desktop\proyecto lab2\fecha.h
+
+1716423420 c:\users\roman\onedrive\desktop\proyecto lab2\contacto.h
+	"Domicilio.h"
+
+1716423420 c:\users\roman\onedrive\desktop\proyecto lab2\domicilio.h
+	"Funciones.h"
+
+1716423421 c:\users\roman\onedrive\desktop\proyecto lab2\funciones.h
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\archivoinventario.cpp
+	<iostream>
+	"ArchivoInventario.h"
+
+1716423420 c:\users\roman\onedrive\desktop\proyecto lab2\archivoinventario.h
+	<cstring>
+	"Inventario.h"
+
+1716423421 c:\users\roman\onedrive\desktop\proyecto lab2\inventario.h
+	"Articulo.h"
+
+1716423420 c:\users\roman\onedrive\desktop\proyecto lab2\articulo.h
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\archivoreparacion.cpp
+	<iostream>
+	"ArchivoReparacion.h"
+
+1716423420 c:\users\roman\onedrive\desktop\proyecto lab2\archivoreparacion.h
+	<cstring>
+	"Reparacion.h"
+
+1716423421 c:\users\roman\onedrive\desktop\proyecto lab2\reparacion.h
+	"Articulo.h"
+	"Cliente.h"
+	"Fecha.h"
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\archivotecnico.cpp
+	<iostream>
+	"ArchivoTecnico.h"
+
+1716423420 c:\users\roman\onedrive\desktop\proyecto lab2\archivotecnico.h
+	<cstring>
+	"Tecnico.h"
+
+1716423421 c:\users\roman\onedrive\desktop\proyecto lab2\tecnico.h
+	"Persona.h"
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Funciones.h"
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\contacto.cpp
+	<iostream>
+	<cstring>
+	"Contacto.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1716423421 c:\users\roman\onedrive\desktop\proyecto lab2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\domicilio.cpp
+	<iostream>
+	<cstring>
+	"Domicilio.h"
+	"rlutil.h"
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1716423420 source:c:\users\roman\onedrive\desktop\proyecto lab2\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+
+1716423421 source:c:\users\roman\onedrive\desktop\proyecto lab2\inventario.cpp
+	"Inventario.h"
+	"Funciones.h"
+	<iostream>
+	<cstring>
+
+1716423421 source:c:\users\roman\onedrive\desktop\proyecto lab2\login.cpp
+	<iostream>
+	"Login.h"
+	"Funciones.h"
+
+1716423421 c:\users\roman\onedrive\desktop\proyecto lab2\login.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+
+1716423421 source:c:\users\roman\onedrive\desktop\proyecto lab2\main.cpp
+	<iostream>
+	"Login.h"
+	"Menu.h"
+	"rlutil.h"
+	"Funciones.h"
+
+1716423421 c:\users\roman\onedrive\desktop\proyecto lab2\menu.h
+
+1716423421 source:c:\users\roman\onedrive\desktop\proyecto lab2\menu.cpp
+	<iostream>
+	"Menu.h"
+	"rlutil.h"
+	"Funciones.h"
+	"ArchivoCliente.h"
+
+1716423421 source:c:\users\roman\onedrive\desktop\proyecto lab2\persona.cpp
+	"Persona.h"
+	"Funciones.h"
+	"rlutil.h"
+	<iostream>
+	<cstring>
+
+1716423421 source:c:\users\roman\onedrive\desktop\proyecto lab2\reparacion.cpp
+	<iostream>
+	<cstring>
+	"Reparacion.h"
+	"Funciones.h"
+
+1716423421 source:c:\users\roman\onedrive\desktop\proyecto lab2\tecnico.cpp
+	<iostream>
+	"Tecnico.h"
+

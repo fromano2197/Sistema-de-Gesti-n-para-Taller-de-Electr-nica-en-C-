@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Sistema de Gestion" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Sistema de Gestion" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Sistema de Gestion" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ArchivoCliente.cpp" />
+		<Unit filename="ArchivoCliente.h" />
+		<Unit filename="ArchivoInventario.cpp" />
+		<Unit filename="ArchivoInventario.h" />
+		<Unit filename="ArchivoReparacion.cpp" />
+		<Unit filename="ArchivoReparacion.h" />
+		<Unit filename="ArchivoTecnico.cpp" />
+		<Unit filename="ArchivoTecnico.h" />
+		<Unit filename="Articulo.cpp" />
+		<Unit filename="Articulo.h" />
+		<Unit filename="Cliente.cpp" />
+		<Unit filename="Cliente.h" />
+		<Unit filename="Contacto.cpp" />
+		<Unit filename="Contacto.h" />
+		<Unit filename="Domicilio.cpp" />
+		<Unit filename="Domicilio.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Funciones.cpp" />
+		<Unit filename="Funciones.h" />
+		<Unit filename="Inventario.cpp" />
+		<Unit filename="Inventario.h" />
+		<Unit filename="Login.cpp" />
+		<Unit filename="Login.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="Reparacion.cpp" />
+		<Unit filename="Reparacion.h" />
+		<Unit filename="Tecnico.cpp" />
+		<Unit filename="Tecnico.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="rlutil.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,12 @@
+OrdenReparacion;NumCliente;Nombre;Apellido;DNI;FechaNacimiento;Calle;Numeracion;CodigoPostal;Telefono;Mail;Articulo;Marca;Modelo;TipoArticulo;PrecioReparacion;FechaEntrada;FechaSalida;Falla;Reparacion;TipoReparacion;Tecnico;Status;Estado
+5;5;Salvador;Herrera;17456321;23/04/1967;Hiroshima;1354;1613;11329867;herrera@gmail.com;Lavarropa;Whirpool;W98LPH7;5;34000;04/06/2024;01/01/1900;No centrifuga;-;0;501;1;1
+6;6;Daiana;Boccalandro;30678876;16/10/1989;Viale;3487;1455;1136779809;daiana.b@gmail.com;Licuadora;Protalia;P56LQ89;1;7300;03/07/2024;01/01/1900;No enciende;-;0;101;1;1
+7;7;Nicolas;Campos;35456654;30/07/1994;Lastra;1365;1322;1124567898;campo.n@gmail.com;Torre;JBL;Boomberg;2;75000;03/07/2024;01/01/1900;Parlante Pinchado;-;0;201;1;1
+8;8;Noelia;Aguilar;36564789;15/11/1992;Cabildo;1455;1614;1133457654;aguilar@gmail.com;Impresora;HP;PrintLike;3;5500;03/07/2024;01/01/1900;Se traba impresion;-;0;301;1;1
+9;9;Sebastian;Melaro;47678598;05/08/2000;Rimoldi;43565;1634;1133554432;melaro@gmail.com;Celular;Motorola;Edge 40;4;8800;03/07/2024;01/01/1900;No carga;-;0;401;1;1
+10;10;Hilda;Jimenez;14421048;09/08/1961;Sucre;2231;1614;1131056455;jimenez@gmail.com;Secarropa;Kohinoor;A65LG;5;5000;03/07/2024;01/01/1900;No Frena;-;0;501;1;1
+12;12;Eduardo;Nunes;37789987;22/02/1993;Monserrat;4532;1122;1123432134;nunes@gmail.com;Radio;Winco;W45L;2;45000;03/07/2024;01/01/1900;No tiene sonido;-;0;201;1;1
+13;13;David;Castellanos;39008755;21/03/1994;Cabildo;5102;1612;1134897656;david.c@gmail.com;Tablet;Lenovo;ThinkPad;3;9400;03/07/2024;01/01/1900;Tactil;-;0;301;1;1
+14;14;Laura;Chaves;19432567;31/08/1974;Delia;4578;1212;1131890877;chaves@gmail.com;Celular;Alcatel;P38L;4;24000;03/07/2024;01/01/1900;Se apaga;-;0;401;1;1
+15;15;Laurindo;Roldan;11345765;10/05/1934;Derqui;1145;1333;1133758409;roldan@gmail.com;Heladera;Galfa;G57LT;5;45000;03/07/2024;01/01/1900;Frizzer no funciona;-;0;501;1;1
+16;20;Juan;Perez;345356;02/02/1998;asdas;123;123;111111;sdsad;Notebook;Acer;L34;3;1300;04/07/2024;01/01/1900;No enciende;-;0;301;1;1

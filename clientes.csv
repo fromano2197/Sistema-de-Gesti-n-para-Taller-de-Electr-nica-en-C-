@@ -1,0 +1,21 @@
+Id;Nombre;Apellido;DNI;FechaNacimiento;Calle;Numeracion;CodigoPostal;Telefono;Mail;Estado
+1;Facundo;Romano;36788975;10/01/1992;Sucre;2197;1614;1133906134;romano@gmail.com;Activo
+2;Hernan;Molina;39742374;07/09/1996;Caaguazu;1440;1412;1132458897;molina@gmail.com;Activo
+3;Tatiana;Blanco;37759686;04/10/1991;Maure;2230;1613;1133690987;blanco@gmail.com;Activo
+4;Sergio;Sanchez;34987890;03/11/1990;Maipu;3467;1243;1134567898;sanchez@gmail.com;Activo
+5;Salvador;Herrera;17456321;23/04/1967;Hiroshima;1354;1613;1132456778;herrera@gmail.com;Activo
+6;Daiana;Boccalandro;30678876;16/10/1989;Viale;3487;1455;1136779809;daiana.b@gmail.com;Activo
+7;Nicolas;Campos;35456654;30/07/1994;Lastra;1365;1322;1124567898;campo.n@gmail.com;Activo
+8;Noelia;Aguilar;36564789;15/11/1992;Cabildo;1455;1614;1133457654;aguilar@gmail.com;Activo
+9;Sebastian;Melaro;47678598;05/08/2000;Rimoldi;43565;1634;1133554432;melaro@gmail.com;Activo
+10;Hilda;Jimenez;14421048;09/08/1961;Sucre;2231;1614;1131056455;jimenez@gmail.com;Activo
+11;Leandro;Farias;35678987;03/02/1991;Fitz roy;4323;1534;1134546677;farias@gmail.com;Activo
+12;Eduardo;Nunes;37789987;22/02/1993;Monserrat;4532;1122;1123432134;nunes@gmail.com;Activo
+13;David;Castellanos;39008755;21/03/1994;Cabildo;5102;1612;1134897656;david.c@gmail.com;Activo
+14;Laura;Chaves;19432567;31/08/1974;Delia;4578;1212;1131890877;chaves@gmail.com;Activo
+15;Laurindo;Roldan;11345765;10/05/1987;Derqui;1145;1333;1133758409;roldan@gmail.com;Activo
+16;Angel ;Ledesma;41088814;26/02/1997;Dillon;1234;1722;1137664199;angel@gmail.com;Activo
+17;Fernando;Herrera;367889213;20/02/2024;sdf;123;234;324;asd;Activo
+18;Juan;Roman;234;30/04/2024;sdfsfd;123;3333;123;asd;Activo
+19;Luis;Ramallo;234;01/02/1965;asd;123;123;123;sdaf;Inactivo
+20;Juan;Perez;345356;02/02/1998;asdas;123;123;111111;sdsad;Activo
